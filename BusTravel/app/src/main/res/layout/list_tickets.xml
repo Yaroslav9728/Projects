@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout7"
+    android:layout_width="wrap_content"
+    android:layout_height="350dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/ticketID"
+        android:layout_width="194dp"
+        android:layout_height="30dp"
+
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="162dp"
+        android:layout_marginBottom="467dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/citydepa"
+        android:layout_width="185dp"
+        android:layout_height="26dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="87dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="398dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.131"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.503" />
+
+    <TextView
+        android:id="@+id/cityarra"
+        android:layout_width="179dp"
+        android:layout_height="22dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="123dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="366dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.126"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.489" />
+
+    <TextView
+        android:id="@+id/timedepa"
+        android:layout_width="186dp"
+        android:layout_height="24dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="154dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="333dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.131"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.46" />
+
+    <TextView
+        android:id="@+id/timearra"
+        android:layout_width="184dp"
+        android:layout_height="22dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="194dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="295dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.13"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.489" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="193dp"
+        android:layout_height="23dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="229dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="259dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.137"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.496" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="202dp"
+        android:layout_height="18dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="266dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="227dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.144"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.503" />
+
+    <TextView
+        android:id="@+id/company"
+        android:layout_width="201dp"
+        android:layout_height="22dp"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="297dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="195dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.137"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.506" />
+
+</android.support.constraint.ConstraintLayout>
