@@ -1,0 +1,9 @@
+E:\Практика з програмування\Central Line Tracing\Central Line Tracing\bin\Debug\Central Line Tracing.exe.config
+E:\Практика з програмування\Central Line Tracing\Central Line Tracing\bin\Debug\Central Line Tracing.exe
+E:\Практика з програмування\Central Line Tracing\Central Line Tracing\bin\Debug\Central Line Tracing.pdb
+E:\Практика з програмування\Central Line Tracing\Central Line Tracing\obj\Debug\Central Line Tracing.csprojResolveAssemblyReference.cache
+E:\Практика з програмування\Central Line Tracing\Central Line Tracing\obj\Debug\Central_Line_Tracing.Form1.resources
+E:\Практика з програмування\Central Line Tracing\Central Line Tracing\obj\Debug\Central_Line_Tracing.Properties.Resources.resources
+E:\Практика з програмування\Central Line Tracing\Central Line Tracing\obj\Debug\Central Line Tracing.csproj.GenerateResource.Cache
+E:\Практика з програмування\Central Line Tracing\Central Line Tracing\obj\Debug\Central Line Tracing.exe
+E:\Практика з програмування\Central Line Tracing\Central Line Tracing\obj\Debug\Central Line Tracing.pdb
