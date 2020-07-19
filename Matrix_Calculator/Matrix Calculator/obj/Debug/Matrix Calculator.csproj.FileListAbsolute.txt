@@ -1,0 +1,12 @@
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\bin\Debug\Matrix Calculator.exe.config
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\bin\Debug\Matrix Calculator.exe
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\bin\Debug\Matrix Calculator.pdb
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix Calculator.csprojResolveAssemblyReference.cache
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix_Calculator.Form1.resources
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix_Calculator.Properties.Resources.resources
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix Calculator.csproj.GenerateResource.Cache
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix Calculator.exe
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix Calculator.pdb
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\bin\Debug\uk-UA\Matrix Calculator.resources.dll
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\obj\Debug\Matrix_Calculator.Form1.uk-UA.resources
+E:\Практика з програмування\Matrix Calculator\Matrix Calculator\obj\Debug\uk-UA\Matrix Calculator.resources.dll
