@@ -1,0 +1,9 @@
+E:\Практика з програмування\Graphs of basic functios\Graphs of basic functios\bin\Debug\Graphs of basic functios.exe.config
+E:\Практика з програмування\Graphs of basic functios\Graphs of basic functios\obj\Debug\Graphs of basic functios.exe
+E:\Практика з програмування\Graphs of basic functios\Graphs of basic functios\obj\Debug\Graphs of basic functios.pdb
+E:\Практика з програмування\Graphs of basic functios\Graphs of basic functios\bin\Debug\Graphs of basic functios.exe
+E:\Практика з програмування\Graphs of basic functios\Graphs of basic functios\bin\Debug\Graphs of basic functios.pdb
+E:\Практика з програмування\Graphs of basic functios\Graphs of basic functios\obj\Debug\Graphs of basic functions.csprojResolveAssemblyReference.cache
+E:\Практика з програмування\Graphs of basic functios\Graphs of basic functios\obj\Debug\Graphs_of_basic_functios.Form1.resources
+E:\Практика з програмування\Graphs of basic functios\Graphs of basic functios\obj\Debug\Graphs_of_basic_functios.Properties.Resources.resources
+E:\Практика з програмування\Graphs of basic functios\Graphs of basic functios\obj\Debug\Graphs of basic functions.csproj.GenerateResource.Cache
