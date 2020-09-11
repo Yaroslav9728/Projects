@@ -1,0 +1,100 @@
+﻿<Window x:Class="Kurs_DB.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kurs_DB"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="449" Width="854" Background="Coral">
+    <Grid>
+        <DataGrid x:Name="Table" HorizontalAlignment="Left" Margin="10,43,0,0" VerticalAlignment="Top" Height="365" Width="826" RowBackground="Yellow" AlternatingRowBackground="Green" IsReadOnly="True"/>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="28" Margin="10,10,0,0" VerticalAlignment="Top" Width="826" Background="Bisque">
+            <MenuItem Header="Select" Background="Bisque">
+                <MenuItem Header="Buses" Background="Bisque">
+                    <MenuItem Header="All" Background="Bisque" Click="MenuItem1_OnClick"/>
+                    <MenuItem Header="With seats" Background="Bisque" Click="MenuItem2_OnClick"/>
+                    <MenuItem Header="With registry number" Background="Bisque" Click="MenuItem_OnClick3"/>
+                </MenuItem>
+                <MenuItem Header="Trips" Background="Bisque">
+                    <MenuItem Header="All" Background="Bisque" Name="Trips_All" Click="Trips_All_OnClick"/>
+                    <MenuItem Header="By city of departure" Background="Bisque" Click ="TripsByCityDeparture"/>
+                    <MenuItem Header="By city of arrival" Background="Bisque" Click="TripsByCityArrival"/>
+                    <MenuItem Header="By time of departure" Background="Bisque" Click="TripsByTimeDeparture"/>
+                    <MenuItem Header="By time of arrival" Background="Bisque" Click="TripsByTimeArrival"/>
+                    <MenuItem Header ="By distance" Background="Bisque" Click="TripByDistance"/>
+                    <MenuItem Header="By ticket price" Background="Bisque" Click="TripByPrice"/>
+                </MenuItem>
+                <MenuItem Header="Schedule" Background="Bisque">
+                    <MenuItem Header="All" Background="Bisque" Click="ScheduleAllSelect"/>
+                    <MenuItem Header ="By date of departure" Background="Bisque" Click="ScheduleWithDepartureDate"/>
+                    <MenuItem Header="By successfully of trip" Background="Bisque" Click="ScheduleWithSuccessfullyTrips"/>
+                </MenuItem>
+
+                <MenuItem Header="Sale" Background="Bisque">
+                    <MenuItem Header="All" Background="Bisque" Click="SelectAllSale"/>
+                    <MenuItem Header="By amount of tickets" Background="Bisque" Click="SelectSaleByAmount"/>
+                    <MenuItem Header="By price" Background="Bisque" Click="SelectSaleBySum"/>
+                    <MenuItem Header="By date" Background="Bisque" Click="SelectSaleByDate"/>
+                </MenuItem>
+                <MenuItem Header="Cities" Background="Bisque" Name="Cities" Click="Cities_OnClick"/>
+            </MenuItem>
+            <MenuItem Header="Insert">
+                <MenuItem Header="Buses" Background="Bisque" Click="Insert1_Click"/>
+                <MenuItem Header="Trips" Background="Bisque" Click="Insert2_Click"/>
+                <MenuItem Header="Schedule" Background="Bisque" Click="Insert_Schedule"/>
+                <MenuItem Header="Sale" Background="Bisque" Click ="InsertSale"/>
+                <MenuItem Header="City of departure" Background="Bisque" Click="Insert5_Click"/>
+                <MenuItem Header="City of arrival" Background="Bisque"  Click="Insert6_Click"/>
+            </MenuItem>
+            <MenuItem Header="Update">
+                <MenuItem Header="Trips" Background="Bisque">
+                    <MenuItem Header="TimeDeparture" Background="Bisque" Click="Update_Click1"/>
+                    <MenuItem Header="TimeArrival" Background="Bisque"  Click="Update_Click2"/>
+                    <MenuItem Header="Price of ticket" Background="Bisque" Click="Update_Click3"/>
+                    <MenuItem Header="Distance" Background="Bisque" Click="Update_Click4"/>
+                </MenuItem>
+                <MenuItem Header="Schedule" Background="Bisque">
+                    <MenuItem Header="Date of departure" Background="Bisque" Click="UpdateDepartureDate"/>
+                    <MenuItem Header="Successfully of the trip" Background="Bisque" Click="UpdateSuccess"/>
+                </MenuItem>
+
+                <MenuItem Header="Sale" Background="Bisque">
+                    <MenuItem Header="Date of saling" Background="Bisque" Click="UpdateDate"/>
+                    <MenuItem Header="Amount of tickets" Background="Bisque" Click="UpdateAmount"/>
+                    <MenuItem Header="Sum of price" Background="Bisque" Click="UpdateSum"/>
+                </MenuItem>
+                <MenuItem Header="Bus" Background="Bisque">
+                    <MenuItem Header="Register number" Background="Bisque" Click="RegUpdate"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Delete">
+                <MenuItem Header="All" Background="Bisque" Click="Delete_All"/>
+                <MenuItem Header="Trips" Background="Bisque">
+                    <MenuItem Header="All" Background="Bisque" Click="DeleteAllTrips"/>
+                    <MenuItem Header="By time of departure" Background="Bisque" Click="DeleteTrips"/>
+                    <MenuItem Header="By time of arrival" Background="Bisque" Click="DeleteTrips2"/>
+                    <MenuItem Header ="By distance" Background="Bisque" Click="DeleteTrips3"/>
+                    <MenuItem Header="By ticket price" Background="Bisque" Click="DeleteTrips4"/>
+                </MenuItem>
+                <MenuItem Header="Schedule" Background="Bisque">
+                    <MenuItem Header="All" Background="Bisque" Click="DeleteAllSchedule"/>
+                    <MenuItem Header ="By date of departure" Background="Bisque" Click ="DeleteSchduleByDate"/>
+                    <MenuItem Header="By successfully of trip" Background="Bisque" Click="DeleteScheduleBySuccess"/>
+                </MenuItem>
+                <MenuItem Header="Sale" Background="Bisque">
+                    <MenuItem Header="All" Background="Bisque" Click="DeleteAll"/>
+                    <MenuItem Header="By amount of tickets" Background="Bisque" Click="DeleteAmount"/>
+                    <MenuItem Header="By price" Background="Bisque" Click="DeleteSum"/>
+                    <MenuItem Header="By date" Background="Bisque" Click="DeleteByDate"/>
+                </MenuItem>
+                <MenuItem Header="Bus" Background="Bisque">
+                    <MenuItem Header="All" Background="Bisque" Click="DeleteAllBuses"/>
+                    <MenuItem Header="With seats" Background="Bisque" Click="DeleteBusesWithSeats"/>
+                    <MenuItem Header="With registry number" Background="Bisque" Click="DeleteBusesWithRegisterNumber"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Back to authorization" Click="MenuItem_OnClick"/>
+        </Menu>
+
+    </Grid>
+</Window>

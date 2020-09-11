@@ -1,0 +1,60 @@
+E:\Практика з програмування\Kurs_DB\Kurs_DB\bin\Debug\Kurs_DB.exe.config
+E:\Практика з програмування\Kurs_DB\Kurs_DB\bin\Debug\Kurs_DB.exe
+E:\Практика з програмування\Kurs_DB\Kurs_DB\bin\Debug\Kurs_DB.pdb
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\AdminWindow.g.cs
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\MainWindow.g.cs
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\App.g.cs
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB_MarkupCompile.cache
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB_MarkupCompile.lref
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\AdminWindow.baml
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\MainWindow.baml
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.g.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.Properties.Resources.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.csproj.GenerateResource.Cache
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.exe
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.pdb
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\DyspetcherWindow.g.cs
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\DyspetcherWindow.baml
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\CashyrWindow.g.cs
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\CashyrWindow.baml
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.InputBusForm.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.InputTripForm.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.UpdateTimeDepartureForm.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.ScheduleInput.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.DepartureDate.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.UpdateDepartureDateForm.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.DateSaling.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.csprojResolveAssemblyReference.cache
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.SaleDate.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.SaleInput.resources
+E:\Практика з програмування\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.UpdateDateSaling.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\bin\Debug\Kurs_DB.exe.config
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.exe
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.pdb
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\bin\Debug\Kurs_DB.exe
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\bin\Debug\Kurs_DB.pdb
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.csprojResolveAssemblyReference.cache
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\AdminWindow.g.cs
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\CashyrWindow.g.cs
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\DyspetcherWindow.g.cs
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\MainWindow.g.cs
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\App.g.cs
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB_MarkupCompile.cache
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB_MarkupCompile.lref
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\AdminWindow.baml
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\CashyrWindow.baml
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\DyspetcherWindow.baml
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\MainWindow.baml
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.g.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.DateSaling.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.SaleDate.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.DepartureDate.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.InputBusForm.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.InputTripForm.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.Properties.Resources.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.SaleInput.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.ScheduleInput.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.UpdateDateSaling.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.UpdateDepartureDateForm.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.UpdateTimeDepartureForm.resources
+E:\База даних_Курсова\Kurs_DB\Kurs_DB\obj\Debug\Kurs_DB.csproj.GenerateResource.Cache

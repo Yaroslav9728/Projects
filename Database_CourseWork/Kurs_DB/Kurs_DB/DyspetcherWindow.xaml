@@ -1,0 +1,61 @@
+﻿<Window x:Class="Kurs_DB.DyspetcherWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kurs_DB"
+        mc:Ignorable="d"
+        Title="DyspetcherWindow" Height="394" Width="673">
+    <Grid>
+        <Grid.Background>
+            <SolidColorBrush Color="Orange"></SolidColorBrush>
+        </Grid.Background>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Height="318" Width="645" RowBackground="Coral" AlternatingRowBackground="LawnGreen" IsReadOnly="True"/>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="26" Margin="10,4,0,0" VerticalAlignment="Top" Width="645" Background="Yellow">
+            <MenuItem Header="Select" Background="Yellow">
+                <MenuItem Header="Schedule" Background="Yellow">
+                    <MenuItem Header="All" Background="Yellow" Click="SelectAllSchedule"/>
+                    <MenuItem Header="With concreate departure date" Background="Yellow" Click="DepartureDate"/>
+                    <MenuItem Header="By successfully trip" Background="Yellow" Click="SuccessTrip"/>
+                </MenuItem>
+                <MenuItem Header="Trip" Background="Yellow">
+                    <MenuItem Header="All" Background="Yellow" Click="MenuItem2_OnClick"/>
+                    <MenuItem Header="By city of arrival" Background="Yellow" Click="MenuItem3_OnClick"/>
+                    <MenuItem Header="By city of departure" Background="Yellow" Click="MenuItem4_OnClick"/>
+                    <MenuItem Header="By time of arrival" Background="Yellow" Click="MenuItem5_OnClick"/>
+                    <MenuItem Header="By time of departure" Background="Yellow" Click="MenuItem6_OnClick"/>
+                    <MenuItem Header="By distance" Background="Yellow" Click="MenuItem7_OnClick"/>
+                    <MenuItem Header="By price of ticket" Background="Yellow" Click="MenuItem8_OnClick"/>
+                </MenuItem>
+
+            </MenuItem>
+            <MenuItem Header="Insert" Background="Yellow">
+                <MenuItem Header="Trip" Background="Yellow" Click="Insert_Click"/>
+                <MenuItem Header="Schedule" Background="Yellow" Click="Insert2_Click"/>
+
+            </MenuItem>
+            <MenuItem Header="Update" Background="Yellow">
+                <MenuItem Header="Trip" Background="Yellow">
+                    <MenuItem Header="TimeDeparture" Background="Bisque" Click="Update_Click1"/>
+                    <MenuItem Header="TimeArrival" Background="Bisque"  Click="Update_Click2"/>
+                    <MenuItem Header="Price of ticket" Background="Bisque" Click="Update_Click3"/>
+                    <MenuItem Header="Distance" Background="Bisque" Click="Update_Click4"/>
+                </MenuItem>
+                <MenuItem Header="Schedule" Background="Yellow">
+                    <MenuItem Header ="Date of departure" Background="Bisque" Click="UpdateSchedule1"/>
+                    <MenuItem Header="Successfully of trip" Background="Bisque" Click="UpdateSchedule2"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Delete" Background="Yellow">
+                <MenuItem Header="Trips" Background="Yellow">
+                    <MenuItem Header="All" Background="Yellow" Click="DeleteAllTrips"/>
+                <MenuItem Header="By time of departure" Background="Yellow" Click="DeleteTrips"/>
+                <MenuItem Header="By time of arrival" Background="Yellow" Click="DeleteTrips2"/>
+                <MenuItem Header ="By distance" Background="Yellow" Click="DeleteTrips3"/>
+                <MenuItem Header="By ticket price" Background="Yellow" Click="DeleteTrips4"/>
+                    </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Back to authorization" Click="MenuItem_OnClick"/>
+        </Menu>
+    </Grid>
+</Window>
