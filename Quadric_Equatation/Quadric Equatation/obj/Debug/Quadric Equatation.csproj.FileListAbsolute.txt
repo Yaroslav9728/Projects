@@ -1,0 +1,28 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\bin\Debug\Quadric Equatation.exe.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\App.g.cs
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\Quadric Equatation_MarkupCompile.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\bin\Debug\Quadric Equatation.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\bin\Debug\Quadric Equatation.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\Quadric Equatation_MarkupCompile.lref
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.g.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\Quadric_Equatation.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Quadric Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\bin\Debug\Quadric Equatation.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\bin\Debug\Quadric Equatation.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\bin\Debug\Quadric Equatation.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\App.g.cs
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\Quadric Equatation_MarkupCompile.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\Quadric Equatation_MarkupCompile.lref
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.g.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\Quadric_Equatation.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric_Equatation\Quadric Equatation\obj\Debug\Quadric Equatation.csproj.GenerateResource.Cache

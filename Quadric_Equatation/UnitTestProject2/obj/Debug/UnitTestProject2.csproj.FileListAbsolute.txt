@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric Equatation\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric Equatation\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric Equatation\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric Equatation\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric Equatation\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric Equatation\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Quadric Equatation\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
